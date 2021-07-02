@@ -3,7 +3,7 @@
 
 
 # Exercise 1
-print('There are "double quotes" in this string.')
+print("There are "double quotes" in this string.")
 
 
 # Exercise 2
