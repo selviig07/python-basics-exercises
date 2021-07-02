@@ -4,7 +4,7 @@
 
 # Exercise 1
 # Display the number of letters in the string
-my_word = "antidisestablishmentarianism"
+my_word ="antidisestablishmentarianism"
 print(len(my_word))
 
 
