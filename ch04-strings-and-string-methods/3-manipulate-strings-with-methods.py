@@ -3,10 +3,10 @@
 
 
 # Exercise 1
-string1 = "Animals"
-string2 = "Badger"
-string3 = "Honey Bee"
-string4 = "Honeybadger"
+string1 ="Animals"
+string2 ="Badger"
+string3 ="Honey Bee"
+string4 ="Honeybadger"
 
 print(string1.lower())
 print(string2.lower())
@@ -22,9 +22,9 @@ print(string4.upper())
 
 
 # Exercise 3
-string1 = "    Filet Mignon"
-string2 = "Brisket    "
-string3 = "  Cheeseburger   "
+string1 = "Filet Mignon"
+string2 = "Brisket"
+string3 = "Cheeseburger"
 
 print(string1.strip())  # Could also use .lstrip()
 print(string1.strip())  # Could also use .rstrip()
@@ -32,7 +32,7 @@ print(string3.strip())
 
 
 # Exercise 4
-string1 = "Becomes"
+string1 ="Becomes"
 string2 = "becomes"
 string3 = "BEAR"
 string4 = "  bEautiful"
